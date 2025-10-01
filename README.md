@@ -1,7 +1,7 @@
 # FZ-Atracker
 
 ## Project Description
-- This is a simple progrma designed to keep track of students grades and make predictions based on their previous performance and remind them to study every now and then
+- This is a simple program designed to keep track of students grades and make predictions based on their previous performance and remind them to study every now and then
 ## Features
 - Notification reminders
 - Export feature for the grades
